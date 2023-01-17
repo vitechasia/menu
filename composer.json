@@ -1,5 +1,5 @@
 {
-    "name": "alza/alza_menu",
+    "name": "vdes/menu",
     "description": "Menu Manager Like a wordpress form alzaCMS",
     "type": "library",
     "require": {
@@ -8,7 +8,7 @@
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Alza\\AlzaMenu\\": "src/"
+            "Vdes\\Menu\\": "src/"
         }
     },
     "authors": [
